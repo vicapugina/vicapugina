@@ -43,8 +43,7 @@
 
 | Проект | Описание | Стек |
 |--------|----------|------|
-| [**Анализ продаж интернет-магазина**](https://github.com/vicapugina/sales-dashboard) | Дашборд в Power BI, выявил сезонность, построил прогноз | Power BI, Excel |
-| [**Анализ оттока клиентов**](https://github.com/vicapugina/churn-analysis) | Обработка данных в Jupyter, поиск корреляций активности и ухода | Python, Pandas, Matplotlib |
+| [**Анализ отзывов товара**](https://github.com/vicapugina/sales-dashboard) | Дашборд в Datalens, выявила проблемы, преимущества, предоставила срочные и плановые рекомендации | Datalens, Excel |
 | [**SQL-запросы для ритейла**](https://github.com/vicapugina/retail-sql) | 10+ сложных запросов: топ-товары, LTV клиентов | PostgreSQL |
 
 ---
