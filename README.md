@@ -48,7 +48,7 @@
 
 ---
 
-### 📊 Моя активность
+---### 📊 Моя активность
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vicapugina&show_icons=true&theme=default" alt="GitHub Stats" height="170"/>
