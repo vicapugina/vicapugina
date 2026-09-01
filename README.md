@@ -32,6 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://trace-logos.ru/assets/logos/search-previews/yandex-data-lens.webp" alt="DataLens" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/373589/excel.svg" alt="Excel" width="40" height="40"/>  
 </p>
 
 **Аналитика и визуализация:** DataLens, Excel, Power BI (в процессе)
