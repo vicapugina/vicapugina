@@ -43,7 +43,7 @@
 
 | Проект | Описание | Стек |
 |--------|----------|------|
-| [**Анализ отзывов товара**](https://github.com/vicapugina/review-analysis-dashboard) | Дашборд в Datalens, выявила проблемы, преимущества, предоставила срочные и плановые рекомендации | Datalens, Excel |
+| [**Анализ отзывов товара**](https://github.com/vicapugina/review-analysis-dashboard) | Дашборд в DataLens — выявила проблемные зоны и точки роста, предложила срочные и плановые решения | Datalens, Excel |
 | [**SQL-запросы для ритейла**](https://github.com/vicapugina/retail-sql) | 10+ сложных запросов: топ-товары, LTV клиентов | PostgreSQL |
 
 ---
