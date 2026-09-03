@@ -44,7 +44,7 @@
 | Проект | Описание | Стек |
 |--------|----------|------|
 | [**Анализ отзывов товара**](https://github.com/vicapugina/review-analysis-dashboard) | Дашборд в DataLens — выявила проблемные зоны и точки роста, предложила срочные и плановые решения | Datalens, Excel |
-| [**SQL-запросы для ритейла**](https://github.com/vicapugina/sql-business-analytics) | Cложные запросы: топ-товары, выручка, долгие и потерянные заказы | PostgreSQL |
+| [**SQL-запросы для ритейла**](https://github.com/vicapugina/sql-business-analytics) | Набор запросов для выявления топ-товаров, выручки, долгих и потерянных заказов | PostgreSQL |
 
 ---
 
